@@ -1,4 +1,6 @@
 # Used-Car-Price-Prediction
+#BaseLine_Models 
+1.Baseline models on data to check for the worst scores
 # Contents:
 1. Business Problem
 2. EDA
